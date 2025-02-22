@@ -19,11 +19,11 @@ header {
     font-size: 18px;
 }
 
-.header__links-list-item{
+.header__links-list-item {
     text-underline-offset: 4px;
 }
 
-.header__links-list-item_no-bullit{
+.header__links-list-item_no-bullit {
     list-style: none;
 }
 
@@ -66,7 +66,7 @@ header {
     z-index: 0;
 }
 
-.cover__title{
+.cover__title {
     width: 100%;
     font-family: "Raleway", sans-serif;
     font-weight: bold;
@@ -83,16 +83,16 @@ header {
     letter-spacing: normal;
 }
 
-.aligned-text{
+.aligned-text {
     display: block;
 }
 
-.text-center{
+.text-center {
     text-align: center;
     margin-left: 33px;
 }
 
-.text-right{
+.text-right {
     text-align: end;
 
 }
@@ -103,7 +103,7 @@ header {
 
 }
 
-.cover__description-text{
+.cover__description-text {
     word-spacing: 19px;
     color:#FFFFFF;
     font-size: 22px;
@@ -111,7 +111,7 @@ header {
     margin: 110px 0px 20px;
 }
 
-.bet-button{
+.bet-button {
     background-color: transparent;
     border: 1px solid #FFFFFF;
     color:#FFFFFF;
@@ -289,11 +289,8 @@ footer {
 }
 
 .footer__social-list {
-    list-style: none;
-}
-
-.footer__social-list {
     display: flex;
+    list-style: none;
     gap: 48px;
     justify-self: end;
 }
