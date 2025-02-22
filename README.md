@@ -1,1 +1,1 @@
-https://github.com/yandex-praktikum/ono-tebe-nado-fd
+https://github.com/Vladislav-Churbanov/ono-tebe-nado-fd
